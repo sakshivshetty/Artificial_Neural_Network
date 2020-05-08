@@ -1,2 +1,1 @@
-# PESU-IO-SUMMER
-WEEK 5
+ANN for the fashion database on MNIST
